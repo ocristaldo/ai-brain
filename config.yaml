@@ -1,0 +1,20 @@
+project: ai-brain
+device_id: default-device  # Change this to identify your device
+paths:
+  notes_dir: ./notes
+  db_path: ./db/brain.sqlite
+  logs_dir: ./logs
+  var_dir: ./var
+  backups_dir: ./backups
+embeddings:
+  enabled: true
+  provider: local
+  model: bge-m3
+  index_secrets: false
+logging:
+  level: INFO
+  redactions: [body_md]
+backup:
+  keep_days: 15
+  min_backups: 15
+  verify_after_create: true

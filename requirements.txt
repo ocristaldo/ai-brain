@@ -1,0 +1,6 @@
+pyyaml
+rich
+xxhash
+sqlite-utils
+pytest
+pytest-cov

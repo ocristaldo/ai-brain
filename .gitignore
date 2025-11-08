@@ -1,0 +1,60 @@
+# Database
+db/
+*.sqlite
+*.sqlite-*
+
+# Logs
+logs/
+*.jsonl
+
+# Runtime state
+var/
+
+# Backups
+backups/
+*.tgz
+*.sha256
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+.venv/
+venv/
+ENV/
+env/
+.pytest_cache/
+
+# OS
+.DS_Store
+.AppleDouble
+.LSOverride
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Temporary
+tmp/
+temp/
+*.tmp
+
+# Claude Code specific
+../.claude/
+../CLAUDE.md
+../.obsidian/
+../.DS_Store
+
+# Notes (personal)
+# Uncomment the example notes when ready to commit
+# notes/eks_telemetry.md
+# notes/uluru_checklist.md
+# notes/test_backup.md

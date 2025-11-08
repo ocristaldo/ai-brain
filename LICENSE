@@ -1,0 +1,57 @@
+GNU AFFERO GENERAL PUBLIC LICENSE
+Version 3, 19 November 2007
+
+Copyright (C) 2025 AI Brain Vault Contributors
+
+This program is free software: you can redistribute it and/or modify
+it under the terms of the GNU Affero General Public License as published
+by the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU Affero General Public License for more details.
+
+You should have received a copy of the GNU Affero General Public License
+along with this program.  If not, see <https://www.gnu.org/licenses/>.
+
+---
+
+ADDITIONAL TERMS - Non-Commercial Use
+
+This software is intended for PERSONAL and NON-COMMERCIAL use only.
+
+You are free to:
+- Use this software for personal knowledge management
+- Modify and improve it for your own use
+- Share improvements with the community
+- Use it for educational purposes
+- Use it for research purposes
+
+You are NOT allowed to:
+- Use this software for commercial purposes
+- Sell this software or derived works
+- Use this software in commercial products or services
+- Offer this software as a paid service (SaaS)
+- Incorporate this software into proprietary products
+
+If you wish to use this software for commercial purposes, please contact
+the maintainers to discuss licensing options.
+
+For the full text of the GNU Affero General Public License v3.0, see:
+https://www.gnu.org/licenses/agpl-3.0.txt
+
+---
+
+Why AGPL-3.0?
+
+The AGPL license ensures that:
+1. The software remains free and open source
+2. Any modifications must be shared with the community
+3. Companies cannot take the code private
+4. Network use counts as distribution (must share modifications)
+5. Derivative works must use the same license
+
+This protects the software from being exploited by commercial entities
+while keeping it freely available for personal and educational use.
